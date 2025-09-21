@@ -1,6 +1,6 @@
 # Políticas de Seguridad DLP en la Nube
 
-Este repositorio contiene un informe en **Word (.docx)** sobre la definición e implementación de políticas de **Data Loss Prevention (DLP)** en un entorno basado en la nube.
+Este repositorio contiene un informe en PDF sobre la definición e implementación de políticas de **Data Loss Prevention (DLP)** en un entorno basado en la nube.
 
 ## 📑 Contenido del Informe
 1. **Introducción**  
